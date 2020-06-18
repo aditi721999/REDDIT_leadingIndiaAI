@@ -1,6 +1,6 @@
 # REDDIT_leadingIndiaAI
 Reddit is a website which comprises user-generated content including photos, videos, links, and text-based posts.
-Our task was to create a model  for Topic Modelling . It is the task of using unsupervised learning to extract the main topics 
+Our task was to create a model  for Topic Modeling . It is the task of using unsupervised learning to extract the main topics 
 (represented as a set of words) that occur in our reddit posts.
 We worked on the reddit/india/politics  dataset (5 columns and 93504 rows ) and performed “Pre Processing” on it .
 
