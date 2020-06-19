@@ -14,3 +14,10 @@ LDA doesn’t give a topic name to those categories and it is for us humans to i
 The model runs very quickly , we were able to extract common topics in a few seconds . 
 Limitations :
 Our model assumes that there are distinct topics in the data set. Since our data set contains only data from one particular domain-’Politics’ , the result might not be very easily interpretable. Choosing best parameters depends a lot  on the human perception
+
+#cleaning file- the code for cleaning the dataset and saving only those rows and columns which we are going to use for further preprocessing , eda and modeling. Its output is saved in form of given "reddit" csv file.
+
+#eda- The code for preprocessing,eda(except year/month/day distribution) and modeling of data.
+
+#eda_time_distribution-year/month/day vs frequency distribution
+
